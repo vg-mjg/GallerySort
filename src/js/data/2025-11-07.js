@@ -1,4 +1,4 @@
-dataSetVersion = "2024-11-01"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2025-11-07"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -11,7 +11,8 @@ dataSet[dataSetVersion].options = [
       { name: "2nd /mjg/ Riichi Arts and Crafts Tournament", key: "ac2", checked: false },
 	  { name: "3rd /mjg/ Riichi Arts and Crafts Tournament", key: "ac3", checked: false },
 	  { name: "4th /mjg/ Riichi Arts and Crafts Tournament", key: "ac4", checked: false },
-	  { name: "5th /mjg/ Riichi Arts and Crafts Tournament", key: "ac5", checked: true },
+	  { name: "5th /mjg/ Riichi Arts and Crafts Tournament", key: "ac5", checked: false },
+	  { name: "6th /mjg/ Riichi Arts and Crafts Tournament", key: "ac6", checked: true },
     ]
   }
 ];
@@ -904,6 +905,319 @@ dataSet[dataSetVersion].characterData = [
     img: "155.png",
     opts: {
       tourney: [ "ac5" ]
+    }
+  },
+  {
+    name: "156.pdf",
+    img: "156.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "157.7z",
+    img: "157.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "158.png",
+    img: "158.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "159.jpg",
+    img: "159.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "160.gif",
+    img: "160.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "161.png",
+    img: "161.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "162.jpg",
+    img: "162.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "163.mp4",
+    img: "163.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "164.jpg",
+    img: "164.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "165.png",
+    img: "165.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "166.png",
+    img: "166.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "167.jpg",
+    img: "167.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "168.png",
+    img: "168.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "169.mp4",
+    img: "169.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "170.pdf",
+    img: "170.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "171.mp4",
+    img: "171.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "172.png",
+    img: "172.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "173.zip",
+    img: "173.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "174.png",
+    img: "174.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "175.png",
+    img: "175.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "176.png",
+    img: "176.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "177.png",
+    img: "177.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "178.mp4",
+    img: "178.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "179.pdf",
+    img: "179.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "180.mp4",
+    img: "180.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "181.rar",
+    img: "181.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "182.png",
+    img: "182.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "183.zip",
+    img: "183.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "184.mov",
+    img: "184.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "185.png",
+    img: "185.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "186.zip",
+    img: "186.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "187.zip",
+    img: "187.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "188.jpg",
+    img: "188.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "189.png",
+    img: "189.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "190.png",
+    img: "190.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "191.png",
+    img: "191.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },{
+    name: "192.png",
+    img: "192.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "193.png",
+    img: "193.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "194.png",
+    img: "194.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },{
+    name: "195.zip",
+    img: "195.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "196.png",
+    img: "196.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "197.png",
+    img: "197.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "198.png",
+    img: "198.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "199.png",
+    img: "199.png",
+    opts: {
+      tourney: [ "ac6" ]
+    }
+  },
+  {
+    name: "200.pdf",
+    img: "200.png",
+    opts: {
+      tourney: [ "ac6" ]
     }
   }
 ];
